@@ -1,0 +1,13 @@
+*.txt
+__pycache__/
+data.zip
+data/
+*.ipynb
+*.pdf
+*.docx
+
+lm_namedtuple.py
+lm_ori.py
+lm_ramd.py
+main_practice.py
+main_reject wrong input.py

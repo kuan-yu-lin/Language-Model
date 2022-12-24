@@ -28,9 +28,9 @@ This is a n-gram Language Model that is designed and implemented in python. The 
 
         > Which n-gram language model you want to build? Please enter a number as n in n-gram.
 
-    2. Define the length of texts you want to generate.
+    2. Define the length of text you want to generate.
 
-        > What is the length of texts you want to generate? Please enter an integer greater than 0.
+        > What is the length of text you want to generate? Please enter an integer greater than 0.
 
 3. The next question is to provide the file name of the data for training the language model. This data needs to be put in the same directory as main.py.
 
@@ -40,13 +40,13 @@ This is a n-gram Language Model that is designed and implemented in python. The 
 
     > The _-gram language model is ready. (underlined space will be filled according to the n that you provided)
 
-5. The language model finish generating all texts. The first text will be printed with the following sentence.
+5. The language model finish generating all text. The first text will be printed with the following sentence.
 
-    > This is the first text generate from the language model: _______. (underlined space will be fill according to the text that language model generated)
+    > This is the first text generate from the language model: _______. (underlined part will be fill according to the text that language model generated)
 
-6. Then, the full texts will be printed with the following sentence.
+6. Then, the full text will be printed with the following sentence.
 
-    > This are all the texts generated from the language model: _______.(underlined space will be fill according to the texts that language model generated)
+    > This are all the text generated from the language model: _______.(underlined part will be fill according to the text that language model generated)
 
 7. The result is saved in the file, named “lm_generation.txt”. The following sentence
 will be printed out.
